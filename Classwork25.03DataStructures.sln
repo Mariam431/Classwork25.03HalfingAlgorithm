@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classwork25.03", "Classwork25.03DataStructures\Classwork25.03.csproj", "{2C9828EB-2864-4326-B61F-58EB0D71CC40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classwork25.03(part1)", "Classwork25.03(part1)\Classwork25.03(part1).csproj", "{63831940-65D3-438D-B16A-C65302202109}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C9828EB-2864-4326-B61F-58EB0D71CC40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9828EB-2864-4326-B61F-58EB0D71CC40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9828EB-2864-4326-B61F-58EB0D71CC40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9828EB-2864-4326-B61F-58EB0D71CC40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63831940-65D3-438D-B16A-C65302202109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63831940-65D3-438D-B16A-C65302202109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63831940-65D3-438D-B16A-C65302202109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63831940-65D3-438D-B16A-C65302202109}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B12E71D9-04AB-44D2-8DF5-236D745288A0}
+	EndGlobalSection
+EndGlobal
